@@ -7,7 +7,7 @@
 ## to use, you'll need inquirer, mysql2 and console.tables from npm modules
 
 # Demonstration
-## <img source="https://github.com/sarahwesley/employee-tracker/blob/main/assets/employeetracker.gif"/>
+## ![Walkthrough Gif](https://github.com/sarahwesley/employee-tracker/blob/main/assets/employeetracker.gif)
 
 # Link to Screencastify Video
 ## https://watch.screencastify.com/v/1ytgzYeRNLwMoJB8AHwx 
